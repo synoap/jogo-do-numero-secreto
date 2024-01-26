@@ -1,6 +1,6 @@
 // Nossas variaveis
 let listaNumerosSorteados = [];
-let numLimite = 10
+let numLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 var numTentativas = 1;
 
